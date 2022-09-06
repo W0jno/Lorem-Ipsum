@@ -1,0 +1,20 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-align: center;
+}
+
+main {
+	height: 70vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#numberValue {
+	width: 50px;
+}
+.loremIpsumPlace {
+	margin-top: 50px;
+}
